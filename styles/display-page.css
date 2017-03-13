@@ -1,0 +1,40 @@
+body {
+	font-size:0;
+	width:800px;
+
+}
+div{
+		display:inline-block;
+
+}
+
+.top1{
+	height:200px;
+	width:50%;
+	border: 1px black solid;
+	background-color:green;
+}
+.top2{
+	height:200px;
+	width:50%;
+	border: 1px black solid;
+	background-color:blue;
+}
+.bottom1{
+	height:300px;
+	width:33.3%;
+	border: 1px black solid;
+	background-color:grey;
+}
+.bottom2{
+	height:300px;
+	width:33.3%;
+	border: 1px black solid;
+	background-color:black;
+}
+.bottom3{
+	height:300px;
+	width:33.3%;
+	border: 1px black solid;
+	background-color:orange;
+}
