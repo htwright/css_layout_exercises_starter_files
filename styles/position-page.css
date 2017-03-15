@@ -39,11 +39,11 @@ li::after {
 
 .navicon{
 	position:relative;
-	padding-left:10px;
 	height:50px;
 	width:50px;
 	border:2px solid black;
 	border-radius:50%;
+	top:10px;
 }
 
 .greenbox{
@@ -64,13 +64,13 @@ div img {
 .dogpic{
 
 
-	left:75%;
+	left:80%;
 	top:50%;
 
 }
 .catpic{
 
-	right:50%;
-	bottom:50%;
+	right:55%;
+	bottom:40%;
 
 }
